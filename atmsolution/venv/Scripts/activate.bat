@@ -1,5 +1,5 @@
 @echo off
-set "VIRTUAL_ENV=C:\Users\Bassant\Desktop\PYTHON~1\workshop\ATMSOL~1\venv"
+set "VIRTUAL_ENV=C:\Users\Bassant\Desktop\PYTHON~1\workshop\ATMSOL~2\venv"
 
 if defined _OLD_VIRTUAL_PROMPT (
     set "PROMPT=%_OLD_VIRTUAL_PROMPT%"
